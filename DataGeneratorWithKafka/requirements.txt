@@ -1,0 +1,5 @@
+keyboard
+Faker 
+
+kafka-python
+mysql-connector-python
